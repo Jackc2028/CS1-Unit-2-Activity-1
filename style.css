@@ -10,4 +10,24 @@
 }
 #box1 {
     justify-content: space-evenly;
+    background-color:rgb(35, 56, 89);
+}
+
+#box2 {
+    
+    padding: 5px;
+    justify-content: center;
+   
+
+}
+
+#box3 {
+    justify-content: center;
+    background-color: lightgray;
+}
+
+#box4 {
+    justify-content: center;
+    
+
 }
