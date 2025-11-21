@@ -1,6 +1,6 @@
 .flexbox {
     display: flex;
-    border: 2px solid rgb(253, 203, 54);
+    border: 2px solid lightblue;
     padding: 20px;
 }
 
@@ -18,18 +18,22 @@
     
     padding: 5px;
     justify-content: center;
-    
+    background-color: rgb(35, 56, 89);
+    color: white;
    
 
 }
 
 #box3 {
     justify-content: center;
-    background-color: lightgray;
+    background-color: rgb(35, 56, 89);
+    color: white;
 }
 
 #box4 {
     justify-content: center;
+    background-color: rgb(35, 56, 89);
+    color: white;
     
 
 }
